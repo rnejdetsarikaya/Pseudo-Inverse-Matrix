@@ -1,0 +1,63 @@
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\bin\Debug\PseudoInverse.exe.config
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\bin\Debug\PseudoInverse.exe
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\bin\Debug\PseudoInverse.pdb
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.csprojAssemblyReference.cache
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.Form1.resources
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.Properties.Resources.resources
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.csproj.GenerateResource.cache
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.csproj.CoreCompileInputs.cache
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.exe
+C:\Users\ali haydar\source\repos\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.pdb
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\bin\Debug\PseudoInverse.exe.config
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\bin\Debug\PseudoInverse.exe
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\bin\Debug\PseudoInverse.pdb
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.csprojAssemblyReference.cache
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.Form1.resources
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.Properties.Resources.resources
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.csproj.GenerateResource.cache
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.csproj.CoreCompileInputs.cache
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.exe
+C:\Users\NECOO\Desktop\PseudoInverse\PseudoInverse\obj\Debug\PseudoInverse.pdb
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.exe.config
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.exe
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.pdb
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csprojAssemblyReference.cache
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Form1.resources
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Properties.Resources.resources
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csproj.GenerateResource.cache
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csproj.CoreCompileInputs.cache
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.exe
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.pdb
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.exe.config
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.exe
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.pdb
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csprojAssemblyReference.cache
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Form1.resources
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Properties.Resources.resources
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csproj.GenerateResource.cache
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csproj.CoreCompileInputs.cache
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.exe
+C:\Users\ali haydar\source\GitLab\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.pdb
+C:\Users\NECOO\Documents\GitHub\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Steps.resources
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.exe.config
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.exe
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.pdb
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csprojAssemblyReference.cache
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Form1.resources
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Properties.Resources.resources
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Steps.resources
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csproj.GenerateResource.cache
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csproj.CoreCompileInputs.cache
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.exe
+C:\Users\NECOO\Desktop\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.pdb
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.exe.config
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.exe
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\bin\Debug\PseudoInverse.pdb
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csprojAssemblyReference.cache
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Form1.resources
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Properties.Resources.resources
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.Steps.resources
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csproj.GenerateResource.cache
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.csproj.CoreCompileInputs.cache
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.exe
+C:\Users\ali haydar\Desktop\YazLab Projeler\Proje-2\pseudoinversematrix\PseudoInverse\obj\Debug\PseudoInverse.pdb
